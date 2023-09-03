@@ -1,0 +1,4 @@
+# Piezoelectric-Thermal_Cantilever_Simulation_Design_Project
+Final Design Project for Engineering Physics Course. A model to simulate a Piezoelectric-Thermal Cantilever.
+
+This design project involved coming up with a physics problem to model and solve for the course ENGPHYS 2CM4 at McMaster University as a culminating task to represent our understanding of computational mechanics. The problem chosen was to simulate a piezoelectric-thermal cantilever under certain conditions and analyse the resonance and steady state while varying the materials it was composed of. This was accomplished by varying material properties in the simulation including testing potentially a real-life substitute tantalum alloy for the element Vibranium in the MCU. Overall, the project was interesting, but the results proved to be inconclusive perhaps due to lack of precision in the model and time constraints.
